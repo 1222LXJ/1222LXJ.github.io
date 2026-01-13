@@ -1,6 +1,6 @@
 #### Publications (* denotes Corresponding Author, † denotes First Co-Author)
 
-- <strong>X. Li</strong>, B. Cui, J.Huang, L. Chen. "Robust LLM-based Multi-Agent System with Action Negotiation and Sharing Redundancy Enhancement." To be appeared in the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <strong>KDD 2026<strong>.
+- <strong>X. Li<strong>, B. Cui, J.Huang, L. Chen. "Robust LLM-based Multi-Agent System with Action Negotiation and Sharing Redundancy Enhancement." To be appeared in the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <strong>KDD 2026<strong>.
 
 - <strong>X. Li<strong>, J. Peng, L. Chen. "InLN: Knowledge-aware Incremental Leveling Network for Dynamic Advertising". The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <strong>KDD 2024<strong>. 
 
