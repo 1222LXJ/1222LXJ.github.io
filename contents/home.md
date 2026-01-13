@@ -5,7 +5,7 @@ I am currently a postdoctoral fellow in [Prof. Lei Chen](https://cse.hkust.edu.h
 
 #### Contact
 
-Email: leexujia[at]ust.hk
+Email: leexujia@ust.hk
 
 #### Research Interests
 Graph Neural Networks; LLMs with RAG techniques; AI for Fintech; Embodied AI; Anomaly Detection
