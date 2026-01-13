@@ -16,9 +16,9 @@
 
 - D. Hong, C. Chen, <strong>X. Li</strong>, S. Wang, W. Lin, X. Liao. "MSR: A Multifaceted Self-Retrieval Framework for Microscopic Cascade Prediction."  The 39th Annual AAAI Conference on Artificial Intelligence. <strong>AAAI 2025</strong>. 
 
--  K. Vernickel, J. Weber, <strong>X. Li</strong>, J. Berg, G. Reinhart. "A Revised KDD Procedure for the Modeling of Continuous Production in Powder Processing". The 26th International Conference on Industrial Engineering and Engineering Management. <strong>IEEM 2019<strong>.
+-  K. Vernickel, J. Weber, <strong>X. Li</strong>, J. Berg, G. Reinhart. "A Revised KDD Procedure for the Modeling of Continuous Production in Powder Processing". The 26th International Conference on Industrial Engineering and Engineering Management. <strong>IEEM 2019</strong>.
 
-- Y. Chen, <strong>X. Li </strong>, D. Hong, C. Chen, X. Liao. "Explanation-Guided Learning for Noise Suppression and Fine-Grained Localization."  <strong>Journal of Chinese Computer Systems 2026 </strong>.
+- Y. Chen, <strong>X. Li</strong>, D. Hong, C. Chen, X. Liao. "Explanation-Guided Learning for Noise Suppression and Fine-Grained Localization."  <strong>Journal of Chinese Computer Systems 2026 </strong>.
 
 - Z. Kou, H. Yu, J. Luo, J. Peng, <strong>X. Li</strong>, C. Liu, J. Dai, L. Chen, S. Han, Y. Guo. "Automate Strategy Finding with LLM in Quant Investment." Findings of The Conference on Empirical Methods in Natural Language Processing. <strong>EMNLP 2025</strong>.
 
