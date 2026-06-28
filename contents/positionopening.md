@@ -4,17 +4,16 @@ We aim to leverage AI technology to address key issues in two domains:
 
 - <strong>Embodied AI</strong> involves the collaboration of multiple embodied agents such as robotic dogs, unmanned delivery platforms, UAVs, and robotic arms.
 
-In terms of specific AI technologies, we focus on <strong>large language models</strong>, <strong>multi-agent systems</strong>, <strong>vision-language-action models</strong>, <strong>graph neural networks</strong>, and <strong>explainable AI</strong>.
+In terms of specific AI technologies, we focus on <strong>large language models</strong>, <strong>multi-agent systems</strong>, <strong>world models</strong>, <strong>graph neural networks</strong>, and <strong>explainable AI</strong>.
 
-Students with experience in the aforementioned scenarios or relevant technical skills are encouraged to send me your CV and transcripts.
+Students with experience in the relevant technical skills are encouraged to send me your CV.
 
 We are continuously offering the following positions:
 
-- PhD positions starting from September 2026. Admitted PhD candidates will be supervised by myself and Prof. Lei Chen, the dean of the INFO Hub of HKUST（GZ）.
+- PhD Candidates: Positions commencing in February 2027. Admitted students will be jointly supervised by myself and Prof. Lei Chen, Dean of the INFO Hub at HKUST (GZ).
 
-- We are also hiring full-time research assistants (RAs), requiring strong coding skills, and offering competitive salaries and social insurance.
+- Full-time Research Assistants: We offer competitive salaries and comprehensive social insurance benefits.
 
-- We are looking for undergraduate and master's students for exchange programs or part-time RA positions, providing generous allowances. Strong coding skills are required, and students will have the opportunity to engage deeply in engineering practice and research projects. Exceptional performance during project execution may lead to priority consideration for PhD opportunities.
+- Undergraduate and Master’s Students: Opportunities for exchange programs or part-time RA roles, featuring generous allowances and immersive engagement in engineering practice and research projects.
 
-- MPhil students at HKUST (GZ) who are seeking a dissertation supervisor or wish to participate in the related research mentioned above and publish relevant papers.
-
+- MPhil Students at HKUST (GZ): Ideal for those seeking a dissertation supervisor or aiming to contribute to the aforementioned research areas and publish high-impact papers.
