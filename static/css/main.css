@@ -184,14 +184,13 @@ section .main-body{
     transition: opacity 0.5s ease;
 }
 
-/* ── Card header: title left, tag right ── */
+/* ── Card header: title top, tag on its own line below ── */
 .proj-card-header {
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 1.5rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
     margin-bottom: 2rem;
-    flex-wrap: wrap;
 }
 
 .proj-card-title {
@@ -226,7 +225,7 @@ section .main-body{
 
 /* ── Media frame ── */
 .proj-card-media-wrap {
-    margin-bottom: 2rem;
+    /* full width */
 }
 
 .proj-card-media {
@@ -377,6 +376,7 @@ section .main-body{
     letter-spacing: -0.01em;
     color: #0071e3;
     text-decoration: none;
+    margin-bottom: 0.75rem;
     transition: opacity 0.3s ease;
 }
 
@@ -393,10 +393,68 @@ section .main-body{
     transform: translateX(5px);
 }
 
-/* ── Card-level logos ── */
+/* ── Progress bar ── */
+.proj-progress-bar {
+    position: relative;
+    height: 4px;
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    margin: 0.5rem auto 1.5rem;
+    cursor: pointer;
+    transition: height 0.2s ease;
+}
+
+.proj-progress-bar:hover {
+    height: 6px;
+}
+
+.proj-progress-fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0%;
+    background: #0071e3;
+    border-radius: 2px;
+    pointer-events: none;
+    transition: width 0.1s linear;
+}
+
+.proj-progress-bar:hover .proj-progress-fill {
+    transition: none;
+}
+
+/* ── Industry Partners box ── */
+.proj-partners-box {
+    flex-shrink: 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    padding: 0.85rem 1.1rem;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+    transition:
+        border-color 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+.proj-card-dk:hover .proj-partners-box {
+    border-color: rgba(0, 0, 0, 0.18);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+}
+
+.proj-partners-label {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", sans-serif;
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #86868b;
+    margin-bottom: 0.6rem;
+}
+
+/* ── Card-level logos (inside partners box) ── */
 .proj-card-logos {
     display: flex;
-    flex-shrink: 0;
     align-items: center;
     gap: 0.75rem;
 }
