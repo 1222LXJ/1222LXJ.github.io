@@ -502,13 +502,17 @@ section .main-body{
 }
 
 /* ── Progress bar ── */
+/* ── Progress bar (range input) ── */
 .proj-progress-bar {
-    position: relative;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
     height: 4px;
     background: rgba(0, 0, 0, 0.06);
     border-radius: 2px;
-    margin: 0.5rem auto 1.5rem;
+    margin: 0.5rem 0 1.5rem;
     cursor: pointer;
+    outline: none;
     transition: height 0.2s ease;
 }
 
@@ -516,20 +520,66 @@ section .main-body{
     height: 6px;
 }
 
-.proj-progress-fill {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 0%;
+/* Thumb */
+.proj-progress-bar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
     background: #0071e3;
-    border-radius: 2px;
-    pointer-events: none;
-    transition: width 0.1s linear;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
 }
 
-.proj-progress-bar:hover .proj-progress-fill {
-    transition: none;
+.proj-progress-bar::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+}
+
+.proj-progress-bar::-moz-range-thumb {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #0071e3;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+/* Track (Firefox) */
+.proj-progress-bar::-moz-range-track {
+    height: 4px;
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+}
+
+/* Track (IE) */
+.proj-progress-bar::-ms-track {
+    height: 4px;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+
+.proj-progress-bar::-ms-fill-lower {
+    background: #0071e3;
+    border-radius: 2px;
+}
+
+.proj-progress-bar::-ms-fill-upper {
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+}
+
+.proj-progress-bar::-ms-thumb {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #0071e3;
+    border: none;
+    cursor: pointer;
 }
 
 /* ── Industry Partners box ── */

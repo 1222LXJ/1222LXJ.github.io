@@ -86,9 +86,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="proj-progress-bar">
-                        <div class="proj-progress-fill"></div>
-                    </div>
+                    <input type="range" class="proj-progress-bar" min="0" max="1000" value="0">
                     <div class="proj-card-body">
                         <p class="proj-card-desc">
                             Led by Prof. Lei Chen and Dr. Xujia Li, the Heterogeneous Embodied Intelligence Lab launched the Ironlings project to enable multi-agent collaboration for smart campus tasks. Key research areas include brain-level planning, cerebellum-level execution, world models, and embodied AI safety.
@@ -120,9 +118,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="proj-progress-bar">
-                        <div class="proj-progress-fill"></div>
-                    </div>
+                    <input type="range" class="proj-progress-bar" min="0" max="1000" value="0">
                     <div class="proj-card-body">
                         <p class="proj-card-desc">
                             Under the leadership of Prof. Lei Chen and Dr. Xujia Li, our Fintech team focuses on financial knowledge management, LLM-based quantitative investment, and risk control. Our flagship innovation, Lingcopliot, leverages AI to transform natural language concepts into backtestable, executable strategies throughout the trading lifecycle. The project was awarded the Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions of Geneva.</p>
@@ -307,14 +303,12 @@
             const card = media.closest('.proj-card-dk');
             const btn = media.querySelector('.proj-play-btn');
             const bar = card.querySelector('.proj-progress-bar');
-            const fill = card.querySelector('.proj-progress-fill');
 
             // Play button
             if (btn) {
-                btn.addEventListener('click', () => {
+                btn.addEventListener('click', (e) => {
+                    e.stopPropagation();
                     if (video.paused) {
-                        const speed = parseFloat(video.dataset.speed) || 1;
-                        video.playbackRate = speed;
                         video.play();
                         btn.classList.add('hidden');
                     }
@@ -332,34 +326,21 @@
                 });
             }
 
-            // Progress bar
-            if (bar && fill) {
+            // Progress bar — native range input
+            if (bar) {
+                // Sync range to video time
                 video.addEventListener('timeupdate', () => {
-                    const pct = (video.currentTime / video.duration) * 100;
-                    fill.style.width = pct + '%';
+                    if (video.duration && isFinite(video.duration)) {
+                        bar.value = Math.round((video.currentTime / video.duration) * 1000);
+                    }
                 });
 
-                bar.addEventListener('click', (e) => {
-                    const rect = bar.getBoundingClientRect();
-                    const pct = (e.clientX - rect.left) / rect.width;
-                    video.currentTime = pct * video.duration;
+                // Seek on user input (click/drag/touch all handled natively)
+                bar.addEventListener('input', () => {
+                    if (video.duration && isFinite(video.duration)) {
+                        video.currentTime = (bar.value / 1000) * video.duration;
+                    }
                 });
-
-                // Drag support
-                let dragging = false;
-                bar.addEventListener('mousedown', (e) => {
-                    dragging = true;
-                    const rect = bar.getBoundingClientRect();
-                    const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-                    video.currentTime = pct * video.duration;
-                });
-                document.addEventListener('mousemove', (e) => {
-                    if (!dragging) return;
-                    const rect = bar.getBoundingClientRect();
-                    const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-                    video.currentTime = pct * video.duration;
-                });
-                document.addEventListener('mouseup', () => { dragging = false; });
             }
         });
 
