@@ -147,26 +147,39 @@
                 <div class="proj-card-glow"></div>
                 <div class="proj-card-surface">
                     <header class="proj-card-header">
-                        <h3 class="proj-card-title">Guided Diffusion for Anti‑Money&nbsp;Laundering</h3>
-                        <span class="proj-card-tag">Fintech</span>
+                        <h3 class="proj-card-title">Diga: Graph Diffusion for Explainable Anti‑Money&nbsp;Laundering</h3>
+                        <span class="proj-card-tag">Banking</span>
                     </header>
                     <div class="proj-card-media-wrap">
                         <div class="proj-card-media">
-                            <div class="proj-media-placeholder">
-                                <i class="bi bi-shield-check"></i>
-                                <span>Image / Video</span>
+                            <div class="proj-carousel" data-carousel>
+                                <div class="proj-carousel-track">
+                                    <img src="static/assets/img/diga_1.png" alt="DiGA screenshot 1" class="proj-carousel-img">
+                                    <img src="static/assets/img/diga_2.png" alt="DiGA screenshot 2" class="proj-carousel-img active">
+                                    <img src="static/assets/img/diga_3.png" alt="DiGA screenshot 3" class="proj-carousel-img">
+                                </div>
+                                <button class="proj-carousel-btn proj-carousel-prev" aria-label="Previous image">
+                                    <i class="bi bi-chevron-left"></i>
+                                </button>
+                                <button class="proj-carousel-btn proj-carousel-next" aria-label="Next image">
+                                    <i class="bi bi-chevron-right"></i>
+                                </button>
+                                <div class="proj-carousel-dots">
+                                    <button class="proj-carousel-dot" data-index="0" aria-label="Image 1"></button>
+                                    <button class="proj-carousel-dot active" data-index="1" aria-label="Image 2"></button>
+                                    <button class="proj-carousel-dot" data-index="2" aria-label="Image 3"></button>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="proj-card-body">
                         <p class="proj-card-desc">
-                            DiGA leverages guided diffusion models to reconstruct missing transaction graph structures in anti-money laundering investigations. By modeling the generative process of financial transactions, it recovers deliberately obscured relationships that conventional rule-based systems miss. Published at <strong>KDD 2023</strong>.
+                            The Diga project is a flagship initiative under the Joint Laboratory of HKUST and WeBank, aiming to achieve high-recall, interpretable anti-money laundering monitoring using Graph Neural Networks. Ourteam introduces a novel guided graph diffusion method based on subgraph reconstruction to identify suspicious accounts in transaction networks at a scale of 200 million accounts.
                         </p>
                         <div class="proj-partners-box">
                             <div class="proj-partners-label">Industry Partners</div>
                             <div class="proj-card-logos">
-                                <span class="proj-logo-item">Logo 1</span>
-                                <span class="proj-logo-item">Logo 2</span>
+                                <img src="static/assets/img/logo31.png" alt="Partner Logo">
                             </div>
                         </div>
                     </div>
@@ -348,6 +361,30 @@
                 });
                 document.addEventListener('mouseup', () => { dragging = false; });
             }
+        });
+
+        // ── Image Carousel ──
+        document.querySelectorAll('[data-carousel]').forEach(carousel => {
+            const images = carousel.querySelectorAll('.proj-carousel-img');
+            const dots = carousel.querySelectorAll('.proj-carousel-dot');
+            const prev = carousel.querySelector('.proj-carousel-prev');
+            const next = carousel.querySelector('.proj-carousel-next');
+            let current = 1;
+            const total = images.length;
+
+            function goTo(index) {
+                images[current].classList.remove('active');
+                dots[current].classList.remove('active');
+                current = ((index % total) + total) % total;
+                images[current].classList.add('active');
+                dots[current].classList.add('active');
+            }
+
+            if (prev) prev.addEventListener('click', () => goTo(current - 1));
+            if (next) next.addEventListener('click', () => goTo(current + 1));
+            dots.forEach(dot => {
+                dot.addEventListener('click', () => goTo(parseInt(dot.dataset.index, 10)));
+            });
         });
 
         // ── Reduced-motion: skip all animations ──
