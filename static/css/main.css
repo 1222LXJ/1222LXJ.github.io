@@ -54,6 +54,15 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+/* Highlight abbreviation */
+.hl {
+    font-family: "Newsreader", "Times New Roman", serif;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--h-title-color);
+    letter-spacing: 0.02em;
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
