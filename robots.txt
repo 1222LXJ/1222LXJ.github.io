@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1222lxj.github.io/sitemap.xml
