@@ -1,4 +1,5 @@
 <ul>
+  <li><strong>[Jul 2026]</strong> Congratulations to <strong>Fintech Group</strong>! The project "Research on Key Technologies of Quantitative Investment Based on Knowledge Graph and AI Agents" won the <strong>Huawei Olympus Pioneer Award</strong>.</li>
   <li><strong>[Jun 2026]</strong> Congratulations to <strong>Junyu</strong>! The paper about fully-dynamic k-center algorithms is accepted at <strong>ICML 2026</strong>.</li>
   <li><strong>[Jun 2026]</strong> Congratulations to <strong>Hao</strong>! The paper about Knowledge-Based VQA is accepted at <strong>ICML 2026</strong>.</li>
   <li><strong>[May 2026]</strong> Congratulations to <strong>myself</strong>! The paper about LLM-based multi-agent system is accepted at <strong>KDD 2026</strong>.</li>
