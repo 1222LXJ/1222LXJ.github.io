@@ -28,39 +28,39 @@
 
 #### Interesting Preprints
 
-- <strong>X. Li</strong>, N. Ke, H. Long, et.al. "Medical Data Labeling: Foundations and Frontiers." Under review of Computing Survey Journal.
+- <strong>X. Li</strong>, N. Ke, H. Long, et.al. "Medical Data Labeling: Foundations and Frontiers." Under review of Computing Survey Journal.<br><small class="text-muted fst-italic">Keywords: Medical Data Annotation, Data-Centric AI, Survey</small>
 
-- <strong>X. Li</strong>, J. Huang, X. Li, B. Cui, Z. Wu, L. Chen. "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System." <a href="https://arxiv.org/abs/2603.28010" target="_blank"><i class="bi bi-link-45deg"></i></a>
+- <strong>X. Li</strong>, J. Huang, X. Li, B. Cui, Z. Wu, L. Chen. "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System." <a href="https://arxiv.org/abs/2603.28010" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Heterogeneous Multi-Agent Systems, Data Management, Embodied Agents</small>
 
-- X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." Under review of NeurIPS 2027.
+- X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." Under review of NeurIPS 2027.<br><small class="text-muted fst-italic">Keywords: Embodied Planning, Verifier-Guided Search, Margin-Aware Priors</small>
 
-- Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of CIKM 2026.
+- Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of CIKM 2026.<br><small class="text-muted fst-italic">Keywords: Column Type Annotation, Cross-Data-Lake, Model Adaptation</small>
 
-- H. Wang, H. Yu, G. Zhang, <strong>X. Li*</strong>, L. Chen. "STEPS-MATA: a temporal knowledge guided adaptive framework for LLM-based stock movement classification." Under review of WISE 2026.
+- H. Wang, H. Yu, G. Zhang, <strong>X. Li*</strong>, L. Chen. "STEPS-MATA: a temporal knowledge guided adaptive framework for LLM-based stock movement classification." Under review of WISE 2026.<br><small class="text-muted fst-italic">Keywords: Stock Movement Prediction, Temporal Knowledge Graphs, LLM-based Classification</small>
 
-- H. Wang, <strong>X. Li*</strong>, J. Peng, Y. Shen, L. Chen. "Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization". <a href="https://arxiv.org/abs/2509.10461" target="_blank"><i class="bi bi-link-45deg"></i></a>
+- H. Wang, <strong>X. Li*</strong>, J. Peng, Y. Shen, L. Chen. "Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization". <a href="https://arxiv.org/abs/2509.10461" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Stock Recommendation, Multi-task Learning, Convergence Optimization</small>
 
-- Y. Chen, Z. Wu, Z. Wang, X. Yu, <strong>X. Li*</strong>, L. Yang, M. Yang, J. Wang, L. Chen. "Probing the "Psyche'' of Large Reasoning Models: Understanding Through a Human Lens." <a href="https://arxiv.org/abs/2512.00729" target="_blank"><i class="bi bi-link-45deg"></i></a>
+- Y. Chen, Z. Wu, Z. Wang, X. Yu, <strong>X. Li*</strong>, L. Yang, M. Yang, J. Wang, L. Chen. "Probing the "Psyche'' of Large Reasoning Models: Understanding Through a Human Lens." <a href="https://arxiv.org/abs/2512.00729" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Large Reasoning Models, Model Interpretability, Human-Centric Evaluation</small>
 
-- L. Wang, Z. Wu, C. Zhang, <strong>X. Li*</strong>, L. Chen. "GraphR^2: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning." Under Review of AAAI 2027.
+- L. Wang, Z. Wu, C. Zhang, <strong>X. Li*</strong>, L. Chen. "GraphR^2: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning." Under Review of AAAI 2027.<br><small class="text-muted fst-italic">Keywords: Graph Reasoning, Hierarchical Learning, Compositional Generalization</small>
 
-- C. Ma, <strong>X. Li*</strong>, Q. Xu, C. Yang, L. Chen. "StreamPLAID: Robust and Incremental Indexing for Streaming Multi Vector Retrieval." Under Revision of VLDB 2027.
+- C. Ma, <strong>X. Li*</strong>, Q. Xu, C. Yang, L. Chen. "StreamPLAID: Robust and Incremental Indexing for Streaming Multi Vector Retrieval." Under Revision of VLDB 2027.<br><small class="text-muted fst-italic">Keywords: Streaming Multi-Vector Retrieval, Incremental Indexing, Robust Search</small>
 
-- Z. Wu, <strong>X. Li*</strong>, et.al. "Saturn: Agentic Natural Language-Driven Tabular Data Discovery." Under Revision of VLDB 2027.
+- Z. Wu, <strong>X. Li*</strong>, et.al. "Saturn: Agentic Natural Language-Driven Tabular Data Discovery." Under Revision of VLDB 2027.<br><small class="text-muted fst-italic">Keywords: Tabular Data Discovery, Natural Language Interface, Agentic Systems</small>
 
-- H. Wang, <strong>X. Li*</strong>, L. Chen. "When Evidence is Equivalent but Answers are Not: Measuring Contextual Uncertainty in Retrieval-based Question Answering."
+- H. Wang, <strong>X. Li*</strong>, L. Chen. "When Evidence is Equivalent but Answers are Not: Measuring Contextual Uncertainty in Retrieval-based Question Answering."<br><small class="text-muted fst-italic">Keywords: Retrieval-based QA, Uncertainty Quantification, Contextual Reasoning</small>
 
-- A. Tian, A. Zhou, H. Li, Y. Wang, <strong>X. Li</strong>, Q. Xu, C. Yang, L. Chen. "Efficient Segment-based Index for Dynamic Vector Search."
+- A. Tian, A. Zhou, H. Li, Y. Wang, <strong>X. Li</strong>, Q. Xu, C. Yang, L. Chen. "Efficient Segment-based Index for Dynamic Vector Search."<br><small class="text-muted fst-italic">Keywords: Dynamic Vector Search, Segment-based Indexing, Approximate Nearest Neighbor</small>
 
-- H. Wang, G. Zhang, <strong>X. Li*</strong>, L. Chen. "SUREBench: Evaluating Semantic Uncertainty Quantification in Black-box LLM Generation." Under review of NeurIPS 2026.
+- H. Wang, G. Zhang, <strong>X. Li*</strong>, L. Chen. "SUREBench: Evaluating Semantic Uncertainty Quantification in Black-box LLM Generation." Under review of NeurIPS 2026.<br><small class="text-muted fst-italic">Keywords: Semantic Uncertainty, Black-box LLM, Benchmark Evaluation</small>
 
-- F. Wu, <strong>X. Li*</strong>, J. Wang, W. Zhang, J. Zhang, L. Pan, L. Chen. "TSExplainerZero: Incentivizing Time Series Explainability in LLMs via Reinforcement Learning." Submitted to AAAI 2027 Conference.
+- F. Wu, <strong>X. Li*</strong>, J. Wang, W. Zhang, J. Zhang, L. Pan, L. Chen. "TSExplainerZero: Incentivizing Time Series Explainability in LLMs via Reinforcement Learning." Submitted to AAAI 2027 Conference.<br><small class="text-muted fst-italic">Keywords: Time Series Explainability, Reinforcement Learning, LLM-based Explanation</small>
 
-- X. Zhu, H. Li, Y. Zhang, <strong>X. Li</strong>, L. Chen. "RST-Sketch: Rethinking Scalable LLM-based Summarization Beyond Query-Driven Retrieval." Submitted to KDD 2027 Research Track Cycle 1.
+- X. Zhu, H. Li, Y. Zhang, <strong>X. Li</strong>, L. Chen. "RST-Sketch: Rethinking Scalable LLM-based Summarization Beyond Query-Driven Retrieval." Submitted to KDD 2027 Research Track Cycle 1.<br><small class="text-muted fst-italic">Keywords: LLM-based Summarization, Scalable Retrieval, Query-Free Summarization</small>
 
-- P. Chen, <strong>X. Li*</strong>, J. Wang, L. Chen. "ArbCyclone: A Holistic Framework for On-Chain Cyclic Arbitrage." Submitted to KDD 2027 Research Track Cycle 1.
+- P. Chen, <strong>X. Li*</strong>, J. Wang, L. Chen. "ArbCyclone: A Holistic Framework for On-Chain Cyclic Arbitrage." Submitted to KDD 2027 Research Track Cycle 1.<br><small class="text-muted fst-italic">Keywords: On-Chain Arbitrage, Blockchain Analytics, Cyclic Trading</small>
 
-- Z. Wu, P. Chen, X. Zhu, H. Wang, J. Qiao, J. Zou, L. Wang, Z. Qu, <strong>X. Li*</strong>, L. Chen. "Agent-Centric Data System: Architecture, Literature and Challenges." Under Review of VLDB Journal.
+- Z. Wu, P. Chen, X. Zhu, H. Wang, J. Qiao, J. Zou, L. Wang, Z. Qu, <strong>X. Li*</strong>, L. Chen. "Agent-Centric Data System: Architecture, Literature and Challenges." Under Review of VLDB Journal.<br><small class="text-muted fst-italic">Keywords: Agent-Centric Architecture, Data Systems, Survey</small>
 
 
 
