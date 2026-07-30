@@ -52,6 +52,17 @@
 
 - A. Tian, A. Zhou, H. Li, Y. Wang, <strong>X. Li</strong>, Q. Xu, C. Yang, L. Chen. "Efficient Segment-based Index for Dynamic Vector Search."
 
+- H. Wang, G. Zhang, <strong>X. Li*</strong>, L. Chen. "SUREBench: Evaluating Semantic Uncertainty Quantification in Black-box LLM Generation." Under review of NeurIPS 2026.
+
+- F. Wu, <strong>X. Li*</strong>, J. Wang, W. Zhang, J. Zhang, L. Pan, L. Chen. "TSExplainerZero: Incentivizing Time Series Explainability in LLMs via Reinforcement Learning." Submitted to AAAI 2027 Conference.
+
+- X. Zhu, H. Li, Y. Zhang, <strong>X. Li</strong>, L. Chen. "RST-Sketch: Rethinking Scalable LLM-based Summarization Beyond Query-Driven Retrieval." Submitted to KDD 2027 Research Track Cycle 1.
+
+- P. Chen, <strong>X. Li*</strong>, J. Wang, L. Chen. "ArbCyclone: A Holistic Framework for On-Chain Cyclic Arbitrage." Submitted to KDD 2027 Research Track Cycle 1.
+
+- Z. Wu, P. Chen, X. Zhu, H. Wang, J. Qiao, J. Zou, L. Wang, Z. Qu, <strong>X. Li*</strong>, L. Chen. "Agent-Centric Data System: Architecture, Literature and Challenges." Under Review of VLDB Journal.
+
+
 #### Granted Patents
 
 - <strong>X. Li</strong>, Y. Li, X. Mo, H. Xiao, Y. Qiu, and L. Chen. "Feature Extraction Method and Apparatus." Patent No. ZL 202311865341.0, June 24, 2025.
