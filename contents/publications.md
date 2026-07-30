@@ -63,7 +63,6 @@
 - Z. Wu, P. Chen, X. Zhu, H. Wang, J. Qiao, J. Zou, L. Wang, Z. Qu, <strong>X. Li*</strong>, L. Chen. "Agent-Centric Data System: Architecture, Literature and Challenges." Under Review of VLDB Journal.<br><small class="text-muted fst-italic">Keywords: Agent-Centric Architecture, Data Systems, Survey</small>
 
 
-
 #### Granted Patents
 
 - <strong>X. Li</strong>, Y. Li, X. Mo, H. Xiao, Y. Qiu, and L. Chen. "Feature Extraction Method and Apparatus." Patent No. ZL 202311865341.0, June 24, 2025.
