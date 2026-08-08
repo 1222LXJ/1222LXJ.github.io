@@ -16,6 +16,8 @@
 
 - L. Wang, <strong>X. Li*</strong>, J. Peng, Y. Wang, C. Zhang, Y. Zhou, L. Chen. "N-ForGOT: Towards Not-forgetting and Generalization of Open Temporal Graph Learning." The 13th International Conference on Learning Representations. <strong>ICLR 2025</strong>. <a href="https://openreview.net/forum?id=rLlDt2FQvz" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Incremental Learning, Open Graph Neural Networks, Graph Theory</small>
 
+- H. Wang, H. Yu, G. Zhang, <strong>X. Li*</strong>, L. Chen. "STEPS-MATA: a Temporal Knowledge Guided Adaptive Framework for LLM-based Stock Movement Classification." The 27th International Conference on Web Information Systems Engineering. <strong>WISE 2026</strong>.<br><small class="text-muted fst-italic">Keywords: Stock Movement Prediction, Temporal Knowledge Graphs, LLM-based Classification</small>
+
 - J. Huang, Z. Li, Z. Zhang, <strong>X. Li</strong>, J. Wang, Q. Feng. "New Algorithms for Fully-Dynamic k-center with Outliers." 43rd International Conference on Machine Learning. <strong>ICML 2026</strong>. <a href="https://icml.cc/virtual/2026/poster/64005" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Clustering, K-means Algorithm</small>
 
 - Y. Chen, <strong>X. Li</strong>, D. Hong, C. Chen, X. Liao. "Explanation-Guided Learning for Noise Suppression and Fine-Grained Localization." <strong>Journal of Chinese Computer Systems 2026</strong>.<br><small class="text-muted fst-italic">Keywords: Explanation-Guided Learning, Self-Supervised Learning, Explainable AI, Deep Learning</small>
@@ -35,8 +37,6 @@
 - X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." Under review of NeurIPS 2027.<br><small class="text-muted fst-italic">Keywords: Embodied Planning, Verifier-Guided Search</small>
 
 - Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of CIKM 2026.<br><small class="text-muted fst-italic">Keywords: Tabular Data, Column Annotation, Data Lake</small>
-
-- H. Wang, H. Yu, G. Zhang, <strong>X. Li*</strong>, L. Chen. "STEPS-MATA: a temporal knowledge guided adaptive framework for LLM-based stock movement classification." Under review of WISE 2026.<br><small class="text-muted fst-italic">Keywords: Stock Movement Prediction, Temporal Knowledge Graphs, LLM-based Classification</small>
 
 - H. Wang, <strong>X. Li*</strong>, J. Peng, Y. Shen, L. Chen. "Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization". <a href="https://arxiv.org/abs/2509.10461" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Stock Recommendation, Multi-task Learning</small>
 
