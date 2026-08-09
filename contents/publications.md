@@ -34,7 +34,7 @@
 
 - <strong>X. Li</strong>, J. Huang, X. Li, B. Cui, Z. Wu, L. Chen. "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System." <a href="https://arxiv.org/abs/2603.28010" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Multi-Agent Systems, Data Management, Embodied Agents</small>
 
-- X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." Under review of NeurIPS 2027.<br><small class="text-muted fst-italic">Keywords: Embodied Planning, Verifier-Guided Search</small>
+- X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." Under review of NeurIPS 2026.<br><small class="text-muted fst-italic">Keywords: Embodied Planning, Verifier-Guided Search</small>
 
 - Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of CIKM 2026.<br><small class="text-muted fst-italic">Keywords: Tabular Data, Column Annotation, Data Lake</small>
 
