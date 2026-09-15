@@ -12,6 +12,10 @@
 
 - C. Chen†, <strong>X. Li†</strong>, D. Hong, S. Lin, X. Liao, C. Liu, L. Chen. "Explanation-in-the-Loop: a New Paradigm for Few-shot Graph Learning." <strong>Neural Networks Journal</strong>, 2026. <a href="https://doi.org/10.1016/j.neunet.2026.108673" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Graph Neural Networks, Explanation-Guided Learning, Few-shot Learning</small>
 
+- C. Ma, <strong>X. Li*</strong>, Q. Xu, C. Yang, L. Chen. "StreamPLAID: Efficient Incremental Indexing via Monotonic Radius Hierarchical Partitioning for Multi-Vector Retrieval." International Conference on Very Large Data Bases. <strong>VLDB 2027</strong>.<br><small class="text-muted fst-italic">Keywords: Multi-Vector Retrieval, Incremental Indexing, Hierarchical Partitioning</small>
+
+- Z. Wu, <strong>X. Li*</strong>, et.al. "Saturn: Agentic Natural Language-Driven Tabular Data Discovery." International Conference on Very Large Data Bases. <strong>VLDB 2027</strong>.<br><small class="text-muted fst-italic">Keywords: Tabular Data Discovery, Natural Language Interface, Agentic Systems</small>
+
 - H. Wang, <strong>X. Li*</strong>, L. Chen. "Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA." 43rd International Conference on Machine Learning. <strong>ICML 2026</strong>. <a href="https://icml.cc/virtual/2026/poster/66324" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: RAG, Large Language Model, Question Answering</small>
 
 - L. Wang, <strong>X. Li*</strong>, J. Peng, Y. Wang, C. Zhang, Y. Zhou, L. Chen. "N-ForGOT: Towards Not-forgetting and Generalization of Open Temporal Graph Learning." The 13th International Conference on Learning Representations. <strong>ICLR 2025</strong>. <a href="https://openreview.net/forum?id=rLlDt2FQvz" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Incremental Learning, Open Graph Neural Networks, Graph Theory</small>
@@ -25,6 +29,8 @@
 - D. Hong, C. Chen, <strong>X. Li</strong>, S. Wang, W. Lin, X. Liao. "MSR: A Multifaceted Self-Retrieval Framework for Microscopic Cascade Prediction." The 39th Annual AAAI Conference on Artificial Intelligence. <strong>AAAI 2025</strong>. <a href="https://doi.org/10.1609/aaai.v39i11.33282" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Social Network Analysis, Temporal Neural Networks, Information Propagation</small>
 
 - Z. Kou, H. Yu, J. Luo, J. Peng, <strong>X. Li</strong>, C. Liu, J. Dai, L. Chen, S. Han, Y. Guo. "Automate Strategy Finding with LLM in Quant Investment." Findings of The Conference on Empirical Methods in Natural Language Processing. <strong>EMNLP 2025</strong>. <a href="https://aclanthology.org/2025.findings-emnlp.1005/" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Quantitative Investment, Financial Large Models, Factor Mining</small>
+
+- Y. Chen, Z. Wu, Z. Wang, X. Yu, <strong>X. Li*</strong>, L. Yang, M. Yang, J. Wang, L. Chen. "Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models." Findings of the 15th International Joint Conference on Natural Language Processing. <strong>IJCNLP 2026</strong>. <a href="https://arxiv.org/abs/2512.00729" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Large Reasoning Models, Interpretability, Human-Centric Evaluation</small>
 
 - K. Vernickel, J. Weber, <strong>X. Li</strong>, J. Berg, G. Reinhart. "A Revised KDD Procedure for the Modeling of Continuous Production in Powder Processing". The 26th International Conference on Industrial Engineering and Engineering Management. <strong>IEEM 2019</strong>. <a href="https://doi.org/10.1109/ieem44572.2019.8978828" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Predictive Maintenance, Data Mining, Intelligent Manufacturing</small>
 
@@ -40,13 +46,7 @@
 
 - H. Wang, <strong>X. Li*</strong>, J. Peng, Y. Shen, L. Chen. "Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization". <a href="https://arxiv.org/abs/2509.10461" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Stock Recommendation, Multi-task Learning</small>
 
-- Y. Chen, Z. Wu, Z. Wang, X. Yu, <strong>X. Li*</strong>, L. Yang, M. Yang, J. Wang, L. Chen. "Probing the "Psyche'' of Large Reasoning Models: Understanding Through a Human Lens." <a href="https://arxiv.org/abs/2512.00729" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Large Reasoning Models, Interpretability, Human-Centric Evaluation</small>
-
 - L. Wang, Z. Wu, C. Zhang, <strong>X. Li*</strong>, L. Chen. "GraphR^2: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning." Under Review of AAAI 2027.<br><small class="text-muted fst-italic">Keywords: Graph Reasoning, Hierarchical Learning, Generalization</small>
-
-- C. Ma, <strong>X. Li*</strong>, Q. Xu, C. Yang, L. Chen. "StreamPLAID: Robust and Incremental Indexing for Streaming Multi Vector Retrieval." Under Revision of VLDB 2027.<br><small class="text-muted fst-italic">Keywords: Multi-Vector Retrieval, Incremental Indexing</small>
-
-- Z. Wu, <strong>X. Li*</strong>, et.al. "Saturn: Agentic Natural Language-Driven Tabular Data Discovery." Under Revision of VLDB 2027.<br><small class="text-muted fst-italic">Keywords: Tabular Data Discovery, Natural Language Interface, Agentic Systems</small>
 
 - H. Wang, <strong>X. Li*</strong>, L. Chen. "When Evidence is Equivalent but Answers are Not: Measuring Contextual Uncertainty in Retrieval-based Question Answering."<br><small class="text-muted fst-italic">Keywords: Retrieval-based QA, Uncertainty Quantification</small>
 
