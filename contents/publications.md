@@ -62,6 +62,12 @@
 
 - Z. Wu, P. Chen, X. Zhu, H. Wang, J. Qiao, J. Zou, L. Wang, Z. Qu, <strong>X. Li*</strong>, L. Chen. "Agent-Centric Data System: Architecture, Literature and Challenges." Under Review of VLDB Journal.<br><small class="text-muted fst-italic">Keywords: Agent-Centric Architecture, Data Systems, Survey</small>
 
+- B. Cui, Z. Chen, <strong>X. Li*</strong>, et al. "A Task-Routed Multi-Function On-Device Voice Intelligence System for Noisy Environments." Under Review of ICASSP 2027.<br><small class="text-muted fst-italic">Keywords: On-Device Speech Processing, Task Routing, Noise Robustness</small>
+
+- C. Chen, B. Cui, <strong>X. Li*</strong>, et al. "Text-Anchored Cross-Modal Exchange for Frozen-LLM Multimodal Sentiment Analysis." Under Review of ICASSP 2027.<br><small class="text-muted fst-italic">Keywords: Multimodal Sentiment Analysis, Frozen LLM, Cross-Modal Alignment</small>
+
+- S. Lin, C. Chen, X. Li, et al. "Queryable Source Structure for Frozen Factuality Verification." Under Review of ICASSP 2027.<br><small class="text-muted fst-italic">Keywords: Factuality Verification, Frozen LLM, Information Retrieval</small>
+
 
 #### Granted Patents
 
