@@ -12,6 +12,8 @@
 
 - C. Chen†, <strong>X. Li†</strong>, D. Hong, S. Lin, X. Liao, C. Liu, L. Chen. "Explanation-in-the-Loop: a New Paradigm for Few-shot Graph Learning." <strong>Neural Networks Journal</strong>, 2026. <a href="https://doi.org/10.1016/j.neunet.2026.108673" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Graph Neural Networks, Explanation-Guided Learning, Few-shot Learning</small>
 
+- X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." The 40th Annual Conference on Neural Information Processing Systems. <strong>NeurIPS 2026</strong>.<br><small class="text-muted fst-italic">Keywords: Embodied Planning, Verifier-Guided Search</small>
+
 - C. Ma, <strong>X. Li*</strong>, Q. Xu, C. Yang, L. Chen. "StreamPLAID: Efficient Incremental Indexing via Monotonic Radius Hierarchical Partitioning for Multi-Vector Retrieval." International Conference on Very Large Data Bases. <strong>VLDB 2027</strong>.<br><small class="text-muted fst-italic">Keywords: Multi-Vector Retrieval, Incremental Indexing, Hierarchical Partitioning</small>
 
 - Z. Wu, <strong>X. Li*</strong>, et.al. "Saturn: Agentic Natural Language-Driven Tabular Data Discovery." International Conference on Very Large Data Bases. <strong>VLDB 2027</strong>.<br><small class="text-muted fst-italic">Keywords: Tabular Data Discovery, Natural Language Interface, Agentic Systems</small>
@@ -39,8 +41,6 @@
 - <strong>X. Li</strong>, N. Ke, H. Long, et.al. "Medical Data Labeling: Foundations and Frontiers." Under review of Computing Survey Journal.<br><small class="text-muted fst-italic">Keywords: Medical Data Annotation</small>
 
 - <strong>X. Li</strong>, J. Huang, X. Li, B. Cui, Z. Wu, L. Chen. "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System." <a href="https://arxiv.org/abs/2603.28010" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Multi-Agent Systems, Data Management, Embodied Agents</small>
-
-- X. Li, J. Huang, <strong>X. Li*</strong>, L. Chen. "MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning." Under review of NeurIPS 2026.<br><small class="text-muted fst-italic">Keywords: Embodied Planning, Verifier-Guided Search</small>
 
 - Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of CIKM 2026.<br><small class="text-muted fst-italic">Keywords: Tabular Data, Column Annotation, Data Lake</small>
 
