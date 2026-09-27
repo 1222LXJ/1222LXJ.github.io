@@ -38,21 +38,19 @@
 
 #### Interesting Preprints
 
-- <strong>X. Li</strong>, N. Ke, H. Long, et.al. "Medical Data Labeling: Foundations and Frontiers." Under review of Computing Survey Journal.<br><small class="text-muted fst-italic">Keywords: Medical Data Annotation</small>
+- <strong>X. Li</strong>, N. Ke, H. Long, et.al. "Medical Data Labeling: Foundations and Frontiers." Under revision of Computing Survey Journal.<br><small class="text-muted fst-italic">Keywords: Medical Data Annotation</small>
 
 - <strong>X. Li</strong>, J. Huang, X. Li, B. Cui, Z. Wu, L. Chen. "HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System." <a href="https://arxiv.org/abs/2603.28010" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Multi-Agent Systems, Data Management, Embodied Agents</small>
 
-- Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of CIKM 2026.<br><small class="text-muted fst-italic">Keywords: Tabular Data, Column Annotation, Data Lake</small>
+- Y. Sun, <strong>X. Li*</strong>, N. Tang, Q. Xu, C. Yang, L. Chen. "LakeHopper: Cross Data Lakes Column Type Annotation through Model Adaptation." Under Review of WSDM 2027.<br><small class="text-muted fst-italic">Keywords: Tabular Data, Column Annotation, Data Lake</small>
 
 - H. Wang, <strong>X. Li*</strong>, J. Peng, Y. Shen, L. Chen. "Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization". <a href="https://arxiv.org/abs/2509.10461" target="_blank"><i class="bi bi-link-45deg"></i></a><br><small class="text-muted fst-italic">Keywords: Stock Recommendation, Multi-task Learning</small>
 
-- L. Wang, Z. Wu, C. Zhang, <strong>X. Li*</strong>, L. Chen. "GraphR^2: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning." Under Review of AAAI 2027.<br><small class="text-muted fst-italic">Keywords: Graph Reasoning, Hierarchical Learning, Generalization</small>
+- L. Wang, Z. Wu, C. Zhang, <strong>X. Li*</strong>, L. Chen. "GraphR^2: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning." Under Review of KDD 2027.<br><small class="text-muted fst-italic">Keywords: Graph Reasoning, Hierarchical Learning, Generalization</small>
 
-- H. Wang, <strong>X. Li*</strong>, L. Chen. "When Evidence is Equivalent but Answers are Not: Measuring Contextual Uncertainty in Retrieval-based Question Answering."<br><small class="text-muted fst-italic">Keywords: Retrieval-based QA, Uncertainty Quantification</small>
+- H. Wang, <strong>X. Li*</strong>, L. Chen. "When Evidence is Equivalent but Answers are Not: Measuring Contextual Uncertainty in Retrieval-based Question Answering." Under Review of ICLR 2027. <br><small class="text-muted fst-italic">Keywords: Retrieval-based QA, Uncertainty Quantification</small>
 
-- A. Tian, A. Zhou, H. Li, Y. Wang, <strong>X. Li</strong>, Q. Xu, C. Yang, L. Chen. "Efficient Segment-based Index for Dynamic Vector Search."<br><small class="text-muted fst-italic">Keywords: Dynamic Vector Search, Indexing, Approximate Nearest Neighbor</small>
-
-- H. Wang, G. Zhang, <strong>X. Li*</strong>, L. Chen. "SUREBench: Evaluating Semantic Uncertainty Quantification in Black-box LLM Generation." Under review of NeurIPS 2026.<br><small class="text-muted fst-italic">Keywords: Semantic Uncertainty, Black-box LLM, Benchmark</small>
+- H. Wang, G. Zhang, <strong>X. Li*</strong>, L. Chen. "SUREBench: Evaluating Semantic Uncertainty Quantification in Black-box LLM Generation." Under review of ICLR 2027.<br><small class="text-muted fst-italic">Keywords: Semantic Uncertainty, Black-box LLM, Benchmark</small>
 
 - F. Wu, <strong>X. Li*</strong>, J. Wang, W. Zhang, J. Zhang, L. Pan, L. Chen. "TSExplainerZero: Incentivizing Time Series Explainability in LLMs via Reinforcement Learning." Submitted to AAAI 2027 Conference.<br><small class="text-muted fst-italic">Keywords: Time Series Explainability, Reinforcement Learning, LLM-based Explanation</small>
 
