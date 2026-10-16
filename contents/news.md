@@ -1,4 +1,6 @@
 <ul>
+  <li><strong>[Oct 2026]</strong> Congratulations to <strong>Chunming</strong>! The paper about incremental indexing is accepted at <strong>VLDB 2027</strong>.</li>
+  <li><strong>[Oct 2026]</strong> Congratulations to <strong>Zuohan</strong>! The paper about tabular data discovery is accepted at <strong>VLDB 2027</strong>.</li>
   <li><strong>[Sep 2026]</strong> Congratulations to <strong>Xin</strong>! The paper about embodied planning is accepted at <strong>NeurIPS 2026</strong>.</li>
   <li><strong>[Aug 2026]</strong> Congratulations to <strong>Hao</strong>! The paper about stock movement prediction is accepted at <strong>WISE 2026</strong>.</li>
   <li><strong>[Jul 2026]</strong> Congratulations to <strong>Fintech Group</strong>! The project "Research on Key Technologies of Quantitative Investment Based on Knowledge Graph and AI Agents" won the <strong>Huawei Olympus Pioneer Award</strong>.</li>
